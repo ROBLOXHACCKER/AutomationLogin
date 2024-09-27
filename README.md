@@ -5,7 +5,7 @@ The purpose of this project is to automate the login process for a web page usin
 
 ## Supporta
 - ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/checked.png)  Cicle Login
-- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/Checked.png)  Muli Session
+- ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/checked.png)  Muli Session
 - ![alt tag](https://raw.github.com/Nirklav/TCPChat/master/UI/Images/notChecked.png) Proxy Cicle 
 
 ## Caratteristiche Principali
